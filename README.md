@@ -4,7 +4,7 @@
 <img src="https://github.com/MatheusFranciscone/site-ecoleta/blob/master/images/print1.png">
 </p>
  
- ()
+https://github.com/MatheusFranciscone/site-ecoleta/blob/master/images/print2.png
  ()
  ()
 
