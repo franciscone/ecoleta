@@ -1,0 +1,27 @@
+{
+  "name": "site-ecoleta",
+  "version": "1.0.0",
+  "description": "Site de descarte de materiais desenvolvido durante a Next Level Week da Rocketseat!",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusFranciscone/site-ecoleta.git"
+  },
+  "keywords": [],
+  "author": "Matheus Franciscone da Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusFranciscone/site-ecoleta/issues"
+  },
+  "homepage": "https://github.com/MatheusFranciscone/site-ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
