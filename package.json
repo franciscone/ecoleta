@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/MatheusFranciscone/site-ecoleta#readme",
   "dependencies": {
+    "3": "^2.1.0",
     "express": "^4.17.1",
-    "nunjucks": "^3.2.1"
+    "nunjucks": "^3.2.1",
+    "sqlite": "^4.0.10",
+    "sqlite3": "^4.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
