@@ -15,15 +15,19 @@
 
  <p align="center">
 <img src="https://github.com/MatheusFranciscone/site-ecoleta/blob/master/images/print1.png">
+ * Index incial, contendo um botão de pesquisa por pontos de coleta e outro para cadastrar um ponto de coleta.
 </p>
-*Index incial, contendo um botão de pesquisa por pontos de coleta e outro para cadastrar um ponto de coleta.
+#
  <p align="center">
 <img src="https://github.com/MatheusFranciscone/site-ecoleta/blob/master/images/print2.png">
+ * Aba de cadastro de um ponto de coleta.
 </p>
-*
+#
  <p align="center">
 <img src="https://github.com/MatheusFranciscone/site-ecoleta/blob/master/images/print3.png">
+ *
 </p>
+#
  <p align="center">
 <img src="https://github.com/MatheusFranciscone/site-ecoleta/blob/master/images/print4.png">
 </p>
